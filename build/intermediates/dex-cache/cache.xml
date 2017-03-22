@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\AndroidCalculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e1410d1a8a8dab155b82f113292dee9100174577">
+        <dex dex="C:\AndroidCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_35e1f2f6d032076cc637c825513d10fa54a6e85f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidCalculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\AndroidCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_61d5504e8555de540d894eac6baf28dff9d8f5db\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidCalculator\app\build\intermediates\jacoco\jacocoagent.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fdca30f45b60c6ba724c26a9ce127975e26d4bcb">
+        <dex dex="C:\AndroidCalculator\app\build\intermediates\pre-dexed\debug\jacocoagent_b0ce9a125dd996a05003057b11e8d50800ab9816.jar" />
+    </item>
+
+</items>

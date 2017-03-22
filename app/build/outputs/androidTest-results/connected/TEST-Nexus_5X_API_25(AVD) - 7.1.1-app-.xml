@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="at.sw2017.calculator.CalculatorInstrumentedTest" tests="13" failures="0" errors="0" skipped="0" time="23.124" timestamp="2017-03-22T03:25:44" hostname="localhost">
+  <properties>
+    <property name="device" value="Nexus_5X_API_25(AVD) - 7.1.1" />
+    <property name="flavor" value="" />
+    <property name="project" value="app" />
+  </properties>
+  <testcase name="testCalculateSubtract" classname="at.sw2017.calculator.CalculatorInstrumentedTest" time="2.753" />
+  <testcase name="testButtons" classname="at.sw2017.calculator.CalculatorInstrumentedTest" time="6.525" />
+  <testcase name="testInputField" classname="at.sw2017.calculator.CalculatorInstrumentedTest" time="4.0" />
+  <testcase name="useAppContext" classname="at.sw2017.calculator.CalculatorInstrumentedTest" time="0.727" />
+  <testcase name="testClearButton" classname="at.sw2017.calculator.CalculatorInstrumentedTest" time="2.983" />
+  <testcase name="testCalculateMultiply" classname="at.sw2017.calculator.CalculatorInstrumentedTest" time="2.625" />
+  <testcase name="testCalculateAdd" classname="at.sw2017.calculator.CalculatorInstrumentedTest" time="2.225" />
+  <testcase name="testDoDivision" classname="at.sw2017.calculator.CalculatorUnitTest" time="0.034" />
+  <testcase name="testDoMultiplication" classname="at.sw2017.calculator.CalculatorUnitTest" time="0.0" />
+  <testcase name="testDoSubtraction" classname="at.sw2017.calculator.CalculatorUnitTest" time="0.0" />
+  <testcase name="testDoDivision1" classname="at.sw2017.calculator.CalculatorUnitTest" time="0.001" />
+  <testcase name="testDoDivision2" classname="at.sw2017.calculator.CalculatorUnitTest" time="0.0" />
+  <testcase name="testDoAddition" classname="at.sw2017.calculator.CalculatorUnitTest" time="0.026" />
+</testsuite>

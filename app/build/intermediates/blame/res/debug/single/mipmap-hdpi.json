@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\AndroidCalculator\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\AndroidCalculator\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidCalculator\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "C:\\AndroidCalculator\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]
